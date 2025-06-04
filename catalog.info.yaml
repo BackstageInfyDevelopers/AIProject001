@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: AIProject001
+  description: The test AI project 01
+  annotations:
+    github.com/project-slug: github.com/BackstageInfyDevelopers/AIProject001
+  tags:
+    - java
+spec:
+  type: website
+  lifecycle: production
+  owner: BackstageInfyDevelopers
+  system: public-websites
