@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: BackstageInfyDevelopersREPO
+  name: BackstageInfyDevelopers
   description: All repositories of BackstageInfyDevelopers
 spec:
   type: github-discovery
